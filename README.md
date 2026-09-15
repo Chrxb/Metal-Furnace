@@ -6,4 +6,4 @@ be able to set a custom temp limit and a custom time limit for the time that the
 and enable the SSR relay when it is in operation. Additionally it has functionality to notify the user
 via on board LEDs and a piezoelectric speaker.
 
-[alt text](https://github.com/Chrxb/Metal-Furnace/blob/main/pcb.png"Pcb")
+[alt text](https://github.com/Chrxb/Metal-Furnace/blob/main/pcb.png "Pcb")
